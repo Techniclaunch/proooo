@@ -8,7 +8,6 @@ import withCORS from "./withCORS.js";
 import parseURL from "./parseURL.js";
 import proxyM3U8 from "./proxyM3U8.js";
 import { proxyTs } from "./proxyTS.js";
- import { proxyTs } from "./proxyTS.js";
 import proxyRequest from "./proxyRequest.js";
 
 export default function getHandler(options, proxy) {
