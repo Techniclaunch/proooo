@@ -22,7 +22,6 @@
     "colors": "^1.4.0",
     "dotenv": "^16.0.3",
     "http-proxy": "^1.18.1",
-    "node-libcurl": "^4.1.0",
     "proxy-from-env": "^1.1.0"
   },
   "type": "module",
